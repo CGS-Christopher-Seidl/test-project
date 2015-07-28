@@ -8,3 +8,7 @@ func featurex {
 	// Bug Fix Comment
 	print("Special Feature Here")
 }
+
+func featurey {
+	print("Function y here")
+}

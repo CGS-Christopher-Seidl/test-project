@@ -4,11 +4,11 @@ import UIKit
 
 var str = "Hello, playground"
 
-func featurex {
+func featurex() {
 	// Bug Fix Comment
 	print("Special Feature Here")
 }
 
-func featurey {
+func featurey() {
 	print("Function y here")
 }

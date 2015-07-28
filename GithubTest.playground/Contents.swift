@@ -7,3 +7,7 @@ var str = "Hello, playground"
 func featurex {
 	print("Special Feature Here")
 }
+
+func featurey {
+	print("Function y here")
+}

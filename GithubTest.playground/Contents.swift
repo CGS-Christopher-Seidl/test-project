@@ -12,3 +12,7 @@ func featurex() {
 func featurey() {
 	print("Function y here")
 }
+
+func featureq(){
+	print("Feature q")
+}

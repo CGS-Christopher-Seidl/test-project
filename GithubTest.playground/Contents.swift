@@ -2,8 +2,6 @@
 
 import UIKit
 
-var str = "Hello, playground"
-
 func featurex() {
 	// Bug Fix Comment
 	print("Special Feature Here")

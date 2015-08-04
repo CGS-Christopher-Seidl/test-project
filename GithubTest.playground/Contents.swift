@@ -18,5 +18,5 @@ func featureq(){
 }
 
 func featurez(){
-	print("This is a new feature")
+	print("I love this feature")
 }

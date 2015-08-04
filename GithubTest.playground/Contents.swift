@@ -17,6 +17,6 @@ func featureq(){
 	print("Feature q")
 }
 
-func newFeatureHere(){
+func newthingy(){
 	print("This is a new feature")
 }

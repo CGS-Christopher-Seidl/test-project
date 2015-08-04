@@ -17,6 +17,6 @@ func featureq(){
 	print("Feature q")
 }
 
-func newthingy(){
+func featureQZ(){
 	print("This is a new feature")
 }
